@@ -1,0 +1,28 @@
+/* Add your styles here */
+
+  body{
+        font-family: monospace;
+      }
+      #entries{
+        width: 50%;
+        height: 250px;
+        overflow: auto;
+        margin: auto;
+        
+      }
+      .writing{
+        line-height: 0.929999999999em;
+      }
+      .title{
+        font-size: 2em;
+        line-height: 0em;
+      }
+      .header{
+        font-size: 3em;
+        text-align: center;
+        line-height: 2em;
+      }
+      .toolbar{
+        border-bottom: 2px solid;
+        margin: 0px;
+      }
